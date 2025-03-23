@@ -1,0 +1,11 @@
+.red{
+background:rgb(253, 0, 0);
+height: 250px;
+color: white;
+}
+
+.green{
+    background-color: green;
+    color: aqua;
+    /* padding: 10px; */
+}
